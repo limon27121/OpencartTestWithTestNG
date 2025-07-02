@@ -4,6 +4,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
@@ -13,6 +15,7 @@ import java.util.Random;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
+import org.testng.annotations.Parameters;
 
 
 public class Base_Class {
@@ -20,7 +23,26 @@ public class Base_Class {
     public Logger logger; //log4j
 
     @BeforeClass
-    void setUp() {
+    @Parameters({"os","browser"})
+    void setUp(String os, String br) {
+        switch (br.toLowerCase()) {
+            case "chrome":
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
+                break;
+            case "edge":
+                WebDriverManager.edgedriver().setup();
+                driver = new EdgeDriver();
+                break;
+            case "firefox":
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
+                break;
+            default:
+                System.out.println("Invalid browser name, launching Chrome as default");
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
+        }
         WebDriverManager.chromedriver().setup();
         logger = LogManager.getLogger(Base_Class.class);
         driver = new ChromeDriver();

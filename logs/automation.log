@@ -9,3 +9,183 @@
 2025-07-02 08:51:53 INFO  Base_Class:30 - provide personal information
 2025-07-02 08:51:55 INFO  Base_Class:32 - valided expected message
 2025-07-02 08:51:55 INFO  Base_Class:43 - ------- Finished registration page test case
+2025-07-02 10:39:48 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+2025-07-02 10:39:49 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 10:39:49 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 10:39:50 INFO  Base_Class:22 - ------- starting registration page test case
+2025-07-02 10:39:51 INFO  Base_Class:26 - click on My account
+2025-07-02 10:39:51 INFO  Base_Class:28 - click on registration link 
+2025-07-02 10:39:51 INFO  Base_Class:30 - provide personal information
+2025-07-02 10:39:52 INFO  Base_Class:32 - valided expected message
+2025-07-02 10:39:52 INFO  Base_Class:47 - ------- Finished registration page test case
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:34:10 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/testng.xml
+
+2025-07-02 11:34:10 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-02 11:34:10 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 11:34:10 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 11:34:11 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 11:34:11 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 11:34:12 INFO  Base_Class:22 - ------- starting registration page test case
+2025-07-02 11:34:12 INFO  Base_Class:26 - click on My account
+2025-07-02 11:34:12 INFO  Base_Class:28 - click on registration link 
+2025-07-02 11:34:12 INFO  Base_Class:30 - provide personal information
+2025-07-02 11:34:14 INFO  Base_Class:32 - valided expected message
+2025-07-02 11:34:14 INFO  Base_Class:47 - ------- Finished registration page test case
+2025-07-02 11:34:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f951a7f: 0 ms
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:35:37 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/testng.xml
+
+2025-07-02 11:35:37 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-07-02 11:35:38 INFO  WebDriverManager:1571 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-07-02 11:35:40 INFO  Downloader:132 - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/138.0.3351.55/edgedriver_linux64.zip
+2025-07-02 11:35:57 INFO  Downloader:193 - Extracting driver from compressed file edgedriver_linux64.zip
+2025-07-02 11:35:57 INFO  WebDriverManager:1281 - Exporting webdriver.edge.driver as /home/limon/.cache/selenium/msedgedriver/linux64/138.0.3351.55/msedgedriver
+2025-07-02 11:35:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@37d871c2: 0 ms
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:18 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/testng.xml
+
+2025-07-02 11:36:18 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-02 11:36:22 INFO  WebDriverManager:1219 - Using geckodriver 0.36.0 (resolved driver for Firefox 139)
+2025-07-02 11:36:22 INFO  WebDriverManager:1571 - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2025-07-02 11:36:22 INFO  Downloader:132 - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
+2025-07-02 11:36:28 INFO  Downloader:193 - Extracting driver from compressed file geckodriver-v0.36.0-linux64.tar.gz
+2025-07-02 11:36:28 INFO  WebDriverManager:1281 - Exporting webdriver.gecko.driver as /home/limon/.cache/selenium/geckodriver/linux64/0.36.0/geckodriver
+2025-07-02 11:36:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6b8280e6: 0 ms
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 11:36:45 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/testng.xml
+
+2025-07-02 11:36:45 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-02 11:36:46 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 11:36:46 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 11:36:46 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 11:36:46 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 11:36:48 INFO  Base_Class:22 - ------- starting registration page test case
+2025-07-02 11:36:48 INFO  Base_Class:26 - click on My account
+2025-07-02 11:36:48 INFO  Base_Class:28 - click on registration link 
+2025-07-02 11:36:48 INFO  Base_Class:30 - provide personal information
+2025-07-02 11:36:49 INFO  Base_Class:32 - valided expected message
+2025-07-02 11:36:49 INFO  Base_Class:47 - ------- Finished registration page test case
+2025-07-02 11:36:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@61cd1c71: 0 ms
