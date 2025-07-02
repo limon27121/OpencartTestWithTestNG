@@ -1,0 +1,11 @@
+2025-07-02 08:51:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Hunter\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2025-07-02 08:51:51 INFO  WebDriverManager:1219 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-02 08:51:51 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as C:\Users\Hunter\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-02 08:51:53 INFO  Base_Class:22 - ------- starting registration page test case
+2025-07-02 08:51:53 INFO  Base_Class:26 - click on My account
+2025-07-02 08:51:53 INFO  Base_Class:28 - click on registration link 
+2025-07-02 08:51:53 INFO  Base_Class:30 - provide personal information
+2025-07-02 08:51:55 INFO  Base_Class:32 - valided expected message
+2025-07-02 08:51:55 INFO  Base_Class:43 - ------- Finished registration page test case

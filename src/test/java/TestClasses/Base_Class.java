@@ -1,6 +1,7 @@
 package TestClasses;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -8,16 +9,24 @@ import org.testng.annotations.BeforeClass;
 
 import java.time.Duration;
 import java.util.Random;
+//import java.util.logging.LogManager;
+
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+
 
 public class Base_Class {
     WebDriver driver;
+    public Logger logger; //log4j
 
     @BeforeClass
     void setUp() {
         WebDriverManager.chromedriver().setup();
+        logger = LogManager.getLogger(Base_Class.class);
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
         driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
         driver.manage().window().maximize();
     }
