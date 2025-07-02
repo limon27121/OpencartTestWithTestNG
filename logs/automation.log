@@ -189,3 +189,92 @@
 2025-07-02 11:36:49 INFO  Base_Class:32 - valided expected message
 2025-07-02 11:36:49 INFO  Base_Class:47 - ------- Finished registration page test case
 2025-07-02 11:36:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@61cd1c71: 0 ms
+2025-07-02 12:29:07 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+2025-07-02 12:29:50 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/parallelTest.xml
+
+2025-07-02 12:30:25 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-02 12:30:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a66a204: 0 ms
+2025-07-02 12:31:40 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-02 12:32:40 INFO  Utils:112 - [TestNG] Running:
+  /home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses/parallelTest.xml
+
+2025-07-02 12:32:40 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-02 12:32:41 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 12:32:41 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 12:32:42 INFO  WebDriverManager:1219 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-02 12:32:42 INFO  WebDriverManager:1281 - Exporting webdriver.chrome.driver as /home/limon/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+2025-07-02 12:32:44 INFO  Base_Class:22 - ------- starting registration page test case
+2025-07-02 12:32:44 INFO  Base_Class:26 - click on My account
+2025-07-02 12:32:45 INFO  Base_Class:28 - click on registration link 
+2025-07-02 12:32:45 INFO  Base_Class:30 - provide personal information
+2025-07-02 12:32:46 INFO  Base_Class:32 - valided expected message
+2025-07-02 12:32:46 INFO  Base_Class:47 - ------- Finished registration page test case
+2025-07-02 12:32:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e73d5eb: 0 ms

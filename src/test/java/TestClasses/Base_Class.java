@@ -9,7 +9,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.time.Duration;
+import java.util.Properties;
 import java.util.Random;
 //import java.util.logging.LogManager;
 
@@ -22,9 +26,19 @@ public class Base_Class {
     WebDriver driver;
     public Logger logger; //log4j
 
+
     @BeforeClass
     @Parameters({"os","browser"})
-    void setUp(String os, String br) {
+    void setUp(String os, String br) throws IOException {
+        //load config.prop file
+        FileReader file1=new FileReader("./src//test//resources//config.properties");
+        Properties p = new Properties();
+        p.load(file1);
+
+
+
+       //for logger which store log in logs file
+        logger = LogManager.getLogger(Base_Class.class);
         switch (br.toLowerCase()) {
             case "chrome":
                 WebDriverManager.chromedriver().setup();
@@ -44,12 +58,12 @@ public class Base_Class {
                 driver = new ChromeDriver();
         }
         WebDriverManager.chromedriver().setup();
-        logger = LogManager.getLogger(Base_Class.class);
+
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
-        driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
+        driver.get(p.getProperty("appUrl")); //read url from config.properties file
         driver.manage().window().maximize();
     }
     @AfterClass
