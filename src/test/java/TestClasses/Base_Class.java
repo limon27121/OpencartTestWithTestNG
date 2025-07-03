@@ -25,6 +25,8 @@ import org.testng.annotations.Parameters;
 public class Base_Class {
     WebDriver driver;
     public Logger logger; //log4j
+    public Properties p;
+
 
 
     @BeforeClass
@@ -32,7 +34,7 @@ public class Base_Class {
     void setUp(String os, String br) throws IOException {
         //load config.prop file
         FileReader file1=new FileReader("./src//test//resources//config.properties");
-        Properties p = new Properties();
+        p = new Properties();
         p.load(file1);
 
 

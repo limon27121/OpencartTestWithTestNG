@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses">
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="TestClasses.TC002_LogIn_Page">
+               
+            </class>
+        </classes>
+    </test>
+
+<!--    test in edge-->
+
+<!--    <test verbose="2" preserve-order="true"-->
+<!--          name="/home/limon/Automation With TestNG/OpencartTestWithSelenium/src/test/java/TestClasses">-->
+<!--        <parameter name="os" value="ubuntu"></parameter>-->
+<!--        <parameter name="browser" value="edge"></parameter>-->
+<!--        <classes>-->
+<!--            <class name="TestClasses.TC001_Registration_Page">-->
+
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
