@@ -11,7 +11,7 @@ public class Registration_Page extends Base_Page {
     public static Base_Class.RandomUtils RandomUtils;
     WebDriver driver;
 
-    //constructor
+    //---- -----constructor -------------
     public Registration_Page(WebDriver driver) {
         super(driver);
 
@@ -38,7 +38,7 @@ public class Registration_Page extends Base_Page {
     @FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
     WebElement account_msg;
 
-    //Actions Method
+    //--------Actions Methods----------
 
     public void fillup_personal_information(String f_name, String l_name, String email_add, String phone, String password1) {
         first_name.sendKeys(f_name);

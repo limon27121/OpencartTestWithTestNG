@@ -61,7 +61,7 @@ public class Base_Class {
         }
         WebDriverManager.chromedriver().setup();
 
-        driver = new ChromeDriver();
+//        driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 

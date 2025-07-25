@@ -6,13 +6,17 @@ import org.openqa.selenium.support.FindBy;
 
 public class Home_Page extends Base_Page {
     WebDriver driver;
-    //constructor
+
+    //-------constructor----------
     public Home_Page(WebDriver driver){
         super(driver);
 
     }
 
-    //locators
+
+
+
+    //--------locators---------
 
 
     @FindBy(xpath="//span[normalize-space()='My Account']")
@@ -24,7 +28,7 @@ public class Home_Page extends Base_Page {
     @FindBy(xpath="//a[normalize-space()='Login']")
     WebElement link_login;
 
-    //Action_Methods
+    //----------Action_Methods-----------------
 
     public void Click_MyAccount(){
         link_my_account.click();
