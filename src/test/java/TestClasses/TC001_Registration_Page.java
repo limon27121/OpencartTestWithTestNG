@@ -19,6 +19,7 @@ public class TC001_Registration_Page extends  Base_Class{
 //test methods
     @Test
     public void verify_Account() {
+        //diff methods depends on level
         logger.info("------- starting registration page test case");
         try {
             Home_Page hp = new Home_Page(driver);
@@ -42,6 +43,8 @@ public class TC001_Registration_Page extends  Base_Class{
 
         }
         catch (Exception e){
+//            logger.error("tests failed");
+//            logger.debug("debug tests");
              Assert.fail();
         }
         logger.info("------- Finished registration page test case");
